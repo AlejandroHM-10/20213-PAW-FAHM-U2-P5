@@ -5,7 +5,7 @@ const CACHE_INMUTABLE_NAME = 'inmutable_v1'
 
 const URL = self.location.href
 let ruta = ''
-URL.startsWith('https:') ? ruta = '/20213-PAW-FAHM-P5/' : ruta = "/"
+URL.startsWith('https:') ? ruta = '/20213-PAW-FAHM-U2-P5/' : ruta = "/"
 
 
 const cleanCache = (name, sizeItems) => {
